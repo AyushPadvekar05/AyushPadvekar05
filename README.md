@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
- <img cellspacing="20%" src="https://github-readme-streak-stats.herokuapp.com/?&user=AyushPadvekar05&border_radius=2%&show_icons=true&hide_border=true">    <img src="https://github-readme-stats.vercel.app/api?username=AyushPadvekar05&border_radius=8%&show_icons=true&hide_border=true">
+ <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?&user=AyushPadvekar05&border_radius=2%&show_icons=true&hide_border=true">    <img width="379" src="https://github-readme-stats.vercel.app/api?username=AyushPadvekar05&border_radius=8%&show_icons=true&hide_border=true">
 </p>
 
 ---
